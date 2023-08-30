@@ -15,7 +15,7 @@ export default function App() {
         <nav className="header">
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/">Home1</Link>
             </li>
             <li>
               <Link to="/about">About</Link>
